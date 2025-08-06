@@ -1,6 +1,12 @@
 nginx
+centos
+centos:7
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+k8s.gcr.io/echoserver:1.4
+
+docker.io/calico/cni:v3.30.2
+docker.io/calico/node:v3.30.2
+docker.io/calico/kube-controllers:v3.30.2
+registry.k8s.io/metrics-server/metrics-server:v0.8.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
