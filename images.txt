@@ -1,5 +1,4 @@
 nginx
-centos
 centos:7
 #支持私库
 k8s.gcr.io/echoserver:1.4
