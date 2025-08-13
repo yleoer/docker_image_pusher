@@ -1,4 +1,5 @@
-busybox:latest
+polinux/stress:latest
+#busybox:latest
 
 #支持私库
 #docker.io/calico/cni:v3.30.2
