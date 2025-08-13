@@ -1,4 +1,5 @@
-polinux/stress:latest
+gcr.io/k8s-staging-sig-docs/k8s-website-hugo:0.133.0-9fd193256b90
+#polinux/stress:latest
 #busybox:latest
 
 #支持私库
