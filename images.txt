@@ -1,6 +1,7 @@
-gcr.io/k8s-staging-sig-docs/k8s-website-hugo:0.133.0-9fd193256b90
+#gcr.io/k8s-staging-sig-docs/k8s-website-hugo:0.133.0-9fd193256b90
 #polinux/stress:latest
 #busybox:latest
+ghcr.io/metacubex/metacubexd
 
 #支持私库
 #docker.io/calico/cni:v3.30.2
